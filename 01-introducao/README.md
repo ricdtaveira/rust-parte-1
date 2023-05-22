@@ -23,6 +23,10 @@ O instalador não apenas instala o compilador Rust, ele também instala uma ferr
 >
 A atualização do compilador precisa ser simples porque o projeto Rust usa um cronograma de lançamento rápido de seis semanas, o que significa que há uma nova versão do compilador a cada seis semanas, como um relógio. Cada versão contém quaisquer novos recursos considerados estáveis nas seis semanas desde a versão anterior, além dos recursos das versões anteriores.
 >
+# Livro de Rust disponível no GitHub #
+> 
+https://github.com/rust-lang/book/blob/main/second-edition/src/ch01-01-installation.md
+> 
 
 
 # Iniciando um novo projeto
